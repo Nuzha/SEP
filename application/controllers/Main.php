@@ -7,8 +7,7 @@ class Main extends CI_Controller {
 	public function index()
 	{
             $this->login();
-     //         $this->add();
-       //       $this->create();
+     // I updated comments
 	}
         
         public function login(){
